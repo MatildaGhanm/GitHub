@@ -1,2 +1,2 @@
-We are reading Git now 
+this is first git show ever
 666666
